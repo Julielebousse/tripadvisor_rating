@@ -11,7 +11,7 @@ Julie Le Bousse & Anh Nguyen
 In this project, we were trying to understand which factors have an important influence on the average rate of restaurants on TripAdvisor.
 The scope of our analysis:
 - Country : France
-- Factors chosen : region, price range, diet options (vegetarian, vegan and gluten free), type of cuisines, open days per week and reservation feature
+- Factors chosen : region, price range, diet options (vegetarian, vegan and gluten free), type of cuisines, open days per week, number of reviews and reservation feature
 - Types of cuisine : French, Italian, Chinese, Japanese & Fastfood
 
 
