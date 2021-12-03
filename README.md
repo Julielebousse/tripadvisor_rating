@@ -16,7 +16,7 @@ The scope of our analysis:
 
 
 ## Dataset 
-We use a dataset found on Kaggle :[TripAdvisor European restaurants](https://www.kaggle.com/stefanoleone992/tripadvisor-european-restaurants)
+We use a dataset found on Kaggle : [TripAdvisor European restaurants](https://www.kaggle.com/stefanoleone992/tripadvisor-european-restaurants)
 
 
 ## Workflow
