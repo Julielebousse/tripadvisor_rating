@@ -46,8 +46,12 @@ We decided to limit our scope of analysis to restaurants in France and chose som
 **Phase 6** :Working on our Github repository and presentation slides
 
 ## Insights
-
-""
+- In contrary to what we first thought, the price range doesn't have much impact on the average rating
+- In general, French cuisine has better rate than other type of cuisines
+- Fastfood restaurant has a larger scope of ratings (from 1 to 4.5) whereas French restaurants have more concentrate rate, especially more expensive restaurants
+- Restaurants with special diet like vegetarian, vegan and gluten free have higher rate (no rate below 2)
+- Happy customers are more likely to give rate and therefore there are more excellent rating than mediocre rating
+- The more days a restaurant is opened, the more likely their rate is lower
 
 ## Delivrables
 - [Presentation slides](https://docs.google.com/presentation/d/1F1Tc0VYJAZ6wa5WXom2XwlFsfIymruCJ/edit#slide=id.p8)
