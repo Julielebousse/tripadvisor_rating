@@ -43,7 +43,7 @@ We decided to limit our scope of analysis to restaurants in France and chose som
 
 **Phase 5** : Analyzing the visualiwations & providing insight
 
-**Phase 6** :Working on our Github repository and presentation slides
+**Phase 6** : Working on our Github repository and presentation slides
 
 ## Insights
 - In contrary to what we first thought, the price range doesn't have much impact on the average rating
