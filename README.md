@@ -56,3 +56,4 @@ We decided to limit our scope of analysis to restaurants in France and chose som
 ## Delivrables
 - [Presentation slides](https://docs.google.com/presentation/d/1F1Tc0VYJAZ6wa5WXom2XwlFsfIymruCJ/edit#slide=id.p8)
 - [Github repository](https://github.com/anhfrenay/tripadvisor_rating)
+- [Trello](https://trello.com/invite/b/BSkqX9UJ/bf8c6a34aad398a878b8ac634480d5c9/tripadvisoranalysis)
